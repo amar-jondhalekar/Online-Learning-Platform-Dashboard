@@ -1,4 +1,6 @@
 ```markdown
+Campuslight Core Founding Team Challenge
+```
 # Online-Learning-Platform-Dashboard
 
 ## Problem Overview:
@@ -58,7 +60,6 @@ For each course, show a progress bar that indicates how much of the course the u
 - Implement state management using React's `useState` and `useEffect`.
 - Create a simple authentication flow (use mock authentication, no real backend required).
 - Ensure the platform is responsive and looks clean on all devices.
-
 ```
 ## Project Structure:
 
@@ -75,10 +76,10 @@ Online-Education-Dashboard/
   │   ├── index.js
   │   ├── App.css
   ├── package.json
+
 ```
-
 ## Implementation Steps:
-
+```
 ### Setting Up the Project:
 1. Initialize a React app using Create React App:
    ```bash
