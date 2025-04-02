@@ -112,5 +112,3 @@ Online-Education-Dashboard/
 
 ## All the best champions!
 ```
-
-This **README.md** file retains all the content and structure of the problem description you provided, formatted for clarity and easy understanding. You can copy and paste it directly into your project repository.
