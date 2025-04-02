@@ -59,9 +59,10 @@ For each course, show a progress bar that indicates how much of the course the u
 - Create a simple authentication flow (use mock authentication, no real backend required).
 - Ensure the platform is responsive and looks clean on all devices.
 
+```
 ## Project Structure:
 
-```
+
 Online-Education-Dashboard/
   ├── public/
   │   ├── index.html
